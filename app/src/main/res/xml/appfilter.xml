@@ -1517,7 +1517,7 @@
     drawable="luckypatcher" />
     <!-- Lync -->
     <item
-    component="ComponentInfo{com.microsoft.office.lync/com.microsoft.office.lync.ui.SplashActivity}"drawable="lync" />
+    component="ComponentInfo{com.microsoft.office.lync/com.microsoft.office.lync.ui.SplashActivity}" drawable="lync" />
     <item
     component="ComponentInfo{com.microsoft.office.lync15/com.microsoft.office.lync.ui.splash.SplashActivity}"
     drawable="lync" />
@@ -1674,7 +1674,7 @@
     drawable="netease_edu_study" />
     <!-- Netease Cloud Music -->
     <item
-    component="ComponentInfo{com.netease.cloudmusic/com.netease.cloudmusic.activity.LoadingActivity}"drawable="netease_music" />
+    component="ComponentInfo{com.netease.cloudmusic/com.netease.cloudmusic.activity.LoadingActivity}" drawable="netease_music" />
     <!-- Netease News -->
     <item
     component="ComponentInfo{com.netease.newsreader.activity/com.netease.nr.biz.ad.AdActivity}"
