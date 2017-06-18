@@ -60,6 +60,10 @@
     <item
     component="ComponentInfo{com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin}"
     drawable="alipay" />
+    <!-- Alto -->
+    <item
+    component="ComponentInfo{com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity}"
+    drawable="alto" />
     <!-- Amazon Appstore -->
     <item
     component="ComponentInfo{com.amazon.venezia/com.amazon.venezia.Venezia}"
@@ -153,10 +157,10 @@
     <item
     component="ComponentInfo{com.microsoft.bing/com.microsoft.clients.bing.app.MainActivity}"
     drawable="bing" />
-    <!-- Bitcoin Wallet -->
+    <!-- Bitcoinwallet -->
     <item
     component="ComponentInfo{de.schildbach.wallet/de.schildbach.wallet.WalletActivity}"
-    drawable="bitcoin_wallet" />
+    drawable="bitcoinwallet" />
     <!-- BOC -->
     <item
     component="ComponentInfo{com.forms/com.forms.start.ActStart}"
@@ -376,6 +380,7 @@
     <item
     component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}"
     drawable="camera" />
+    <!-- Cat -->
     <!-- CCB -->
     <item
     component="ComponentInfo{com.ccb.companybank/com.ccb.companybank.activities.LaunchActivity}"
@@ -428,6 +433,9 @@
     drawable="clock" />
     <item
     component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}"
+    drawable="clock" />
+    <item
+    component="ComponentInfo{net.oneplus.deskclock/net.oneplus.deskclock.DeskClock}"
     drawable="clock" />
     <!-- CM_Security -->
     <item
@@ -607,6 +615,10 @@
     <item
     component="ComponentInfo{com.coolapk.market/com.coolapk.market.activity.MainActivity}"
     drawable="coolapk" />
+    <!-- Cooldp -->
+    <item
+    component="ComponentInfo{com.by_syk.cooldp/com.by_syk.cooldp.HelloActivity}"
+    drawable="cooldp" />
     <!-- Cortana -->
     <item
     component="ComponentInfo{com.microsoft.cortana.preview/com.microsoft.bing.dss.SplashActivity}"
@@ -1474,6 +1486,10 @@
     <item
     component="ComponentInfo{com.gotokeep.keep/com.gotokeep.keep.activity.SplashActivity}"
     drawable="keep_health" />
+    <!-- KFC -->
+    <item
+    component="ComponentInfo{com.yek.android.kfc.activitys/com.yum.brandkfc.SplashAct}"
+    drawable="kfc" />
     <!-- Kuogou -->
     <item
     component="ComponentInfo{com.kugou.android/com.kugou.android.app.splash.SplashActivity}"
@@ -1623,6 +1639,9 @@
     component="ComponentInfo{<!--mark1-->}"
     drawable="mouse_paint" />
     <!-- Music -->
+    <item
+    component="ComponentInfo{net.oneplus.music/net.oneplus.music.activity.MainActivity}"
+    drawable="music" />
     <item
     component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.HomeActivity}"
     drawable="music" />
@@ -1926,6 +1945,10 @@
     <item
     component="ComponentInfo{com.readability/com.readability.activities.splash.SplashActivity}"
     drawable="readability" />
+    <!-- Recorder -->
+    <item
+    component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}"
+    drawable="recorder" />
     <!-- Root_Explorer -->
     <item
     component="ComponentInfo{com.clearvisions.explorer.pro/com.mirrorlabs.filebrowser.FilebrowserULTRAActivity}"
@@ -2535,6 +2558,10 @@
     <item
     component="ComponentInfo{com.One.WoodenLetter/com.androlua.Welcome}"
     drawable="yigemuhan" />
+    <!-- Youdao Translator -->
+    <item
+    component="ComponentInfo{com.youdao.translator/com.youdao.translator.activity.LaunchActivity}"
+    drawable="youdao_translator" />
     <!-- Youdaodict -->
     <item
     component="ComponentInfo{com.youdao.dict/com.youdao.dict.activity.DictSplashActivity}"
