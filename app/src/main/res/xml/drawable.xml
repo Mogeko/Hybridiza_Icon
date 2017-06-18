@@ -27,6 +27,7 @@
     <item drawable="aide" />
     <item drawable="airdroid" />
     <item drawable="alipay" />
+    <item drawable="alto" />
     <item drawable="amazon_appstore" />
     <item drawable="amazon_kindle" />
     <item drawable="antutu" />
@@ -51,6 +52,7 @@
     <item drawable="calendar" />
     <item drawable="calendar_404" />
     <item drawable="camera" />
+    <item drawable="act" />
     <item drawable="ccb" />
     <item drawable="chrome" />
     <item drawable="chrome_" />
@@ -64,6 +66,7 @@
     <item drawable="contacts_" />
     <item drawable="contacts_2" />
     <item drawable="coolapk" />
+    <item drawable="cooldp" />
     <item drawable="cortana" />
     <item drawable="didi" />
     <item drawable="dolphin_browser" />
@@ -126,6 +129,7 @@
     <item drawable="ireader" />
     <item drawable="jinritoutiao" />
     <item drawable="keep_health" />
+    <item drawable="kfc" />
     <item drawable="kugo_music" />
     <item drawable="landern" />
     <item drawable="lbe" />
@@ -183,8 +187,9 @@
     <item drawable="qq_music" />
     <item drawable="qzone" />
     <item drawable="readability" />
+    <item drawable="recorder" />
     <item drawable="root_explorer" />
-    <item drawable="root_explorer_" />    
+    <item drawable="root_explorer_" />
     <item drawable="seeder" />
     <item drawable="settings" />
     <item drawable="shadowsocks" />
@@ -221,6 +226,7 @@
     <item drawable="xiaoyuansouti" />
     <item drawable="xposed_installer" />
     <item drawable="yigemuhan" />
+    <item drawable="youdao_translator" />
     <item drawable="youdaodict" />
     <item drawable="youku" />
     <item drawable="youtube" />
